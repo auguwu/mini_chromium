@@ -15,3 +15,5 @@
 /Makefile
 /out
 /xcodebuild
+/.direnv
+/bazel-*
